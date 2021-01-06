@@ -1,4 +1,5 @@
 import collections
+""" Metrics provided by Rodrigo Nogueira."""
 def normalize_answer(s):
     """Lower text and remove extra whitespace."""
 
